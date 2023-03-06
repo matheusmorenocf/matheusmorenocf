@@ -3,7 +3,11 @@
 
 - 🔭 Hoje eu ainda nao trabalho com tecnologia, estou migrando para essa área e aberto a novos desafios.
 
-- 🌱 Atualmente estou estudando desenvolvimento web (HTML5, CSS3, Javascript, SASS, Bootstrap)
+- 🌱 Atualmente estou estudando desenvolvimento web (HTML5, CSS3, Javascript, SASS, Bootstrap) no curso Fullstack da <a href="https://onebitcode.com/lp/" target="_blank" title="Site da Onebitcode">Onebitcode</a>
+
+Já conclui 4 modulos de HTML5 e CSS3 do <a href="https://instagram.com/morenocf01](https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>, um total de 120 horas.
+
+Também conclui do curso de Javacript de 40 horas do <a href="https://instagram.com/morenocf01](https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>,
 
 <br>
 
