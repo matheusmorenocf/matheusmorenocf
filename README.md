@@ -1,13 +1,12 @@
 ### Olá! Eu sou o Matheus Moreno
 
+Sou um desenvolvedor em transição de carreira, com 25 anos e formação técnica em Fabricação Mecânica. Decidi migrar para a área de tecnologia e, para isso, tenho investido em cursos e treinamentos, como o curso Fullstack da Onebitcode, onde aprendo a desenvolver aplicações web completas. Estou animado em aplicar minhas habilidades criativas e eficientes na minha nova carreira como desenvolvedor.
 
-- 🔭 Hoje eu ainda nao trabalho com tecnologia, estou migrando para essa área e aberto a novos desafios.
+Estou comprometido em me tornar um desenvolvedor completo e qualificado e busco constantemente novos desafios e oportunidades para aprimorar minhas habilidades. Caso esteja procurando um desenvolvedor dedicado e comprometido, adoraria conversar com você!
 
-- 🌱 Atualmente estou estudando desenvolvimento web (HTML5, CSS3, Javascript, SASS, Bootstrap) no curso Fullstack da <a href="https://onebitcode.com/lp/" target="_blank" title="Site da Onebitcode">Onebitcode</a>
+<a href="https://onebitcode.com/lp/" target="_blank" title="Site da Onebitcode">Onebitcode</a>
 
-- Já conclui 4 modulos de HTML5 e CSS3 do <a href="https://instagram.com/morenocf01](https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>, um total de 120 horas.
-
-- Também conclui do curso de Javacript de 40 horas do <a href="https://instagram.com/morenocf01](https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>,
+<a href="https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>
 
 <br>
 
