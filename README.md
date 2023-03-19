@@ -4,7 +4,7 @@ Sou um desenvolvedor em transição de carreira, com 25 anos e formação técni
 
 Estou comprometido em me tornar um desenvolvedor completo e qualificado e busco constantemente novos desafios e oportunidades para aprimorar minhas habilidades. Caso esteja procurando um desenvolvedor dedicado e comprometido, adoraria conversar com você!
 
-<a href="https://onebitcode.com/lp/](https://matheusmorenocf.github.io/portfolio/index.html" target="_blank" title="Meu Portfolio">Meu Portfolio</a>
+<a href="https://matheusmorenocf.github.io/portfolio/index.html" target="_blank" title="Meu Portfolio">Meu Portfolio</a>
 
 <a href="https://onebitcode.com/lp/" target="_blank" title="Site da Onebitcode">Onebitcode</a>
 
