@@ -1,14 +1,12 @@
 ### Olá! Eu sou o Matheus Moreno
 
-Sou um desenvolvedor em transição de carreira, com 25 anos e formação técnica em Fabricação Mecânica. Decidi migrar para a área de tecnologia e, para isso, tenho investido em cursos e treinamentos, como o curso Fullstack da Onebitcode, onde aprendo a desenvolver aplicações web completas. Estou animado em aplicar minhas habilidades criativas e eficientes na minha nova carreira como desenvolvedor.
+Sou um desenvolvedor em transição de carreira com experiência técnica em Fabricação Mecânica e atualmente cursando Análise e Desenvolvimento de Sistemas. Decidi migrar para a área de tecnologia, onde busco aprimorar minhas habilidades em desenvolvimento web e me especializar em Javascript, HTML e CSS. Com esse objetivo em mente, tenho feito cursos extras como o de Javascript, HTML e CSS pelo Cursoemvideo, além de estar cursando o Fullstack Javascript pela Onebitcode. Estou animado para seguir na área de tecnologia, onde espero aplicar minhas habilidades em desenvolvimento para criar soluções impactantes e inovadoras.
 
-Estou comprometido em me tornar um desenvolvedor completo e qualificado e busco constantemente novos desafios e oportunidades para aprimorar minhas habilidades. Caso esteja procurando um desenvolvedor dedicado e comprometido, adoraria conversar com você!
+Caso esteja procurando um desenvolvedor dedicado e comprometido, adoraria conversar com você!
 
-<a href="https://matheusmorenocf.github.io/portfolio/index.html" target="_blank" title="Meu Portfolio">Meu Portfolio</a>
+Da uma olhada no meu portfolio =)
 
-<a href="https://onebitcode.com/lp/" target="_blank" title="Site da Onebitcode">Onebitcode</a>
-
-<a href="https://www.cursoemvideo.com/" target="_blank" title="Site do Curso em Video">Curso em Video</a>
+<a href="https://matheusmorenocf.github.io/portfolio/index.html" target="_blank" title="Meu Portfolio">Link PORTFOLIO</a>
 
 <br>
 
